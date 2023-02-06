@@ -34,8 +34,9 @@
 <p>Get in touch! Say Hello :)</p>
 
 <a href="https://www.linkedin.com/in/evelyn-zeng/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="mailto:evelyn.zm.zeng@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%A7%E2%80%8D-Email-blue" alt="email"></a>
-<a href="https://evelyn-zeng-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-Evelyn.Portfolio-blue" alt="Personal Website"></a>
+<a href="mailto:evelyn.zm.zeng@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%A7%E2%80%8D-Email-white" alt="email"></a>
+<a href="https://evelyn-zeng-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-Evelyn.Portfolio-white" alt="Personal Website"></a>
+
 
 <!--
 ### Hi there 👋

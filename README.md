@@ -2,11 +2,11 @@
 <h2 align="center">Hi I'm Evelyn, nice to meet you👋</h2>
 
 
-- 🌍 I'm based in Melbourne
-- 🔭I'm a Software Engineer with a demonstrated history of working in back end and front end technologies. 
-- 😄I love to design and write clean codes. 
-- 🌱I'm passionate about building useable products that solve real customer problems. 
-- 🤝 I'm open to opportunities on full-stack and front-end developer roles
+- I'm based in Melbourne
+- I'm a Software Engineer with a demonstrated history of working in back end and front end technologies. 
+- I love to design and write clean codes. 
+- I'm passionate about building useable products that solve real customer problems. 
+- I'm open to opportunities on full-stack and front-end developer roles
 
 ### Skills
 
